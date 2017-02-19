@@ -1,0 +1,1 @@
+!function(){function n(n){console.log(n)}function o(n){console.log(n)}function c(n){console.log(n)}n("Anish"),o("Bikash"),c("Suvendu")}();
